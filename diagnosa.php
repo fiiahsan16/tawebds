@@ -199,7 +199,7 @@ $pt = new Gejala;
 
 <footer class="footer text-faded text-center py-5">
   <div class="container">
-    <p style="color: white;">Total konsultasi : <?php echo $cl->jum; ?><br/>Copyright &copy;2020 <a href="http://www.mycoding.net">My Coding</a></p>
+    <p style="color: white;">Total konsultasi : <?php echo $cl->jum; ?><br/>Copyright &copy;2020 <a href="https://id-id.facebook.com/people/Fii-Ahsan-Qauly/100004459748422/">Fii Ahsan Qauly</a></p>
   </div>
 </footer>
 

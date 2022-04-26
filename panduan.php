@@ -11,10 +11,10 @@ $cl->Count();
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <meta name="description" content="Sistem Pakar Diagnosa Menggunakan Metode Dempster Shafer">
-  <meta name="author" content="My Coding">
+  <meta name="author" content="Fii Ahsan Qauly">
   <link rel="icon" type="image/png" sizes="16x16" href="assetsA/assets/images/Logo-SP.png">
 
-  <title>Dempster Shafer - Sistem Pakar Diagnosa MERS-CoV</title>
+  <title>Dempster Shafer - Sistem Pakar Diagnosa Anxiety Disorder</title>
 
   <!-- SEO -->
   <meta name="keywords" content="Sistem Pakar, Diagnosa Penyakit, Metode Dempster Shafer">
@@ -69,7 +69,7 @@ $cl->Count();
   
 
   <h1 class="site-heading text-center d-none d-lg-block">
-    <span class="site-heading-upper text-primary mb-3">Diagnosa Penyakit MERS-CoV</span>
+    <span class="site-heading-upper text-primary mb-3">Diagnosa Penyakit Anxiety Diosrder</span>
     <span class="site-heading-lower">Dempster Shafer</span>
   </h1>
 
@@ -112,7 +112,7 @@ $cl->Count();
                 <!-- <span class="section-heading-upper">Strong Coffee, Strong Roots</span> -->
                 <span class="section-heading-lower">Panduan Tata Cara Diagnosa Penyakit</span>
               </h2>
-              <p style="text-align: justify;">Sistem Pakar diagnosa penyakit MERS-CoV merupakan sebuah sistem yang mampu melakukan diagnosa penyakit MERS-CoV berdasarkan gejala yang dapat dirasakan. untuk melakukan diagnosa penyakit, terdapat beberapa tatacara dan aturan yang harus dilakukan, adalah sebagai berikut:</p>
+              <p style="text-align: justify;">Sistem Pakar diagnosa penyakit Anxiety Disorder merupakan sebuah sistem yang mampu melakukan diagnosa penyakit Anxiety Disorder berdasarkan gejala yang dapat dirasakan. untuk melakukan diagnosa penyakit, terdapat beberapa tatacara dan aturan yang harus dilakukan, adalah sebagai berikut:</p>
 
               <h3><span class="section-heading-upper">BAGAIMANA CARA MELAKUKAN DIAGNOSA PENYAKIT?</span></h3>
               <p class="mb-0">Diagnosa penyakit dapat dilakukan apabila telah menginput 2 gejala atau lebih, dikarenakan untuk mendiagnosa sebuah penyakit dibutuhkan minimal 2 buah gejala agar penyakit dapat didiagnosa.</p>
@@ -123,7 +123,7 @@ $cl->Count();
 
               <br>
               <h3><span class="section-heading-upper">APAKAH DIAGNOSA PENYAKIT PADA SISTEM SUDAH 100% BENAR?</span></h3>
-              <p class="mb-0">Diagnosa penyakit pada sistem dilakukan dengan perhitungan yang menggunakan metode <i>Dempster-Shafer</i> dengan nilai kepercayaan bersumber dari pakar/dokter ahli paru-paru, guna melakukan upaya penanganan dini terhadap penyakit tersebut. tetapi akan lebih baik jika melakukan konsultasi ulang bersama dokter ahli paru-paru, agar masalah yang anda hadapi dapat ditangani lebih baik.</p>
+              <p class="mb-0">Diagnosa penyakit pada sistem dilakukan dengan perhitungan yang menggunakan metode <i>Dempster-Shafer</i> dengan nilai kepercayaan bersumber dari pakar/psikolog, guna melakukan upaya penanganan dini terhadap penyakit tersebut. tetapi akan lebih baik jika melakukan konsultasi ulang bersama psikolog, agar masalah yang anda hadapi dapat ditangani lebih baik.</p>
             </div>
           </div>
         </div>
@@ -133,7 +133,7 @@ $cl->Count();
 
   <footer class="footer text-faded text-center py-5">
     <div class="container">
-      <p style="color: white;">Total konsultasi : <?php echo $cl->jum; ?><br/>Copyright &copy;2020 <a href="http://www.mycoding.net">My Coding</a></p>
+      <p style="color: white;">Total konsultasi : <?php echo $cl->jum; ?><br/>Copyright &copy;2022 <a href="https://id-id.facebook.com/people/Fii-Ahsan-Qauly/100004459748422/">Fii Ahsan Qauly</a></p>
     </div>
   </footer>
 

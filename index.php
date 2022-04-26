@@ -65,7 +65,7 @@ $cl->Count();
 <body>
 
   <h1 class="site-heading text-center d-none d-lg-block">
-    <span class="site-heading-upper text-primary mb-3">Diagnosa Penyakit MERS-CoV</span>
+    <span class="site-heading-upper text-primary mb-3">Diagnosa Penyakit Anxiety Disorder</span>
     <span class="site-heading-lower">Dempster Shafer</span>
   </h1>
 
@@ -104,7 +104,7 @@ $cl->Count();
         <div class="row">
           <div class="col-xl-9 col-lg-10 mx-auto">
             <div class="bg-faded rounded p-5">
-              <h3><center><span class="section-heading-upper">Implementasi Sistem Pakar Diagnosa Penyakit MERS-CoV Menggunakan Metode Dempster Shafer</span></center></h3>
+              <h3><center><span class="section-heading-upper">Implementasi Sistem Pakar Diagnosa Anxiety Diosrder Menggunakan Metode Dempster Shafer</span></center></h3>
             </div>
           </div>
         </div>
@@ -119,9 +119,9 @@ $cl->Count();
         <div class="intro-text left-0 text-center bg-faded p-5 rounded">
           <h2 class="section-heading mb-4">
             <span class="section-heading-upper">Apa itu</span>
-            <span class="section-heading-lower">MERS-CoV?</span>
+            <span class="section-heading-lower">Anxiety Disorder ?</span>
           </h2>
-          <p class="mb-3" >MERS CoV adalah singkatan dari Middle East Respiratory Syndrome Corona Virus. Cek sekarang apakah kamu terkena Mers-CoV?
+          <p class="mb-3" >Anxiety Disorder adalah penyakit mental berupa gangguan kecemasan. Cek sekarang apakah kamu terkena Anxiety?
           </p>
           <div class="intro-button mx-auto">
             <h2><a class="btn btn-primary btn-xl" href="diagnosa.php" rel="noopener">DIAGNOSA SEKARANG</a></h2>
@@ -138,9 +138,9 @@ $cl->Count();
           <div class="cta-inner text-center rounded">
             <h2 class="section-heading mb-4">
               <span class="section-heading-upper">Tentang</span>
-              <span class="section-heading-lower">Mers-CoV</span>
+              <span class="section-heading-lower">Anxiety Disorder</span>
             </h2>
-            <p class="mb-0" style="text-align: justify;">MERS CoV adalah singkatan dari Middle East Respiratory Syndrome Corona Virus. Keberadaan virus ini pertama kali dilaporkan pada bulan September 2012 di Arab Saudi. Virus ini merupakan jenis baru dari kelompok Corona virus (Novel Corona Virus) namun  berbeda dengan  virus Severe Acute Respiratory Syndrome (SARS) pada tahun 2003. Gejala apabila terserang Virus Mers CoV adalah demam, batuk dan sesak nafas, bersifat akut, biasanya pasien memiliki penyakit ko-morbid/penyerta dan memiliki inkubasi 2-14 hari.</p>
+            <p class="mb-0" style="text-align: justify;">Gangguan kecemasan (anxiety disorder) adalah gangguan psikologis yang dicirikan dengan ketegangan motorik (gelisah, gemetar dan ketidakmampuan untuk rileks), hiperaktivitas (pusing, jantung berdebar-debar atau berkeringat) dan pikiran serta harapan yang mencemaskan.</p>
           </div>
         </div>
       </div>
@@ -154,7 +154,7 @@ $cl->Count();
         <div class="row">
           <div class="col-xl-9 col-lg-10 mx-auto">
             <div class="bg-faded rounded p-5">
-              <h3><center><span class="section-heading-upper">Sistem Pakar Metode Dempster Shafer V.1</span></center></h3>
+              <h3><center><span class="section-heading-upper">Sistem Pakar Metode Dempster Shafer</span></center></h3>
             </div>
           </div>
         </div>
@@ -164,7 +164,7 @@ $cl->Count();
 
   <footer class="footer text-faded text-center py-5">
     <div class="container">
-      <p style="color: white;">Total konsultasi : <?php echo $cl->jum; ?><br/>Copyright &copy;2020 <a href="http://www.mycoding.net">My Coding</a></p>
+      <p style="color: white;">Total konsultasi : <?php echo $cl->jum; ?><br/>Copyright &copy;2022 <a href="https://id-id.facebook.com/people/Fii-Ahsan-Qauly/100004459748422/">Fii Ahsan Qauly</a></p>
     </div>
   </footer>
 
